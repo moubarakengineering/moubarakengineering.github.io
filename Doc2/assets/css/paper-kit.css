@@ -7216,7 +7216,7 @@ License - nucleoapp.com/license/
     animation-fill-mode: forwards;
   }
   .img__description{
-    max-width:75%;
+    max-width:100%;
     font-size: 1.2em;
   }
   @keyframes topbar-x {
